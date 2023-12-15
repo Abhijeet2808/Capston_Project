@@ -5,6 +5,7 @@ Modern CSS techniques to create stunning designs and effects.
 How to use common components and layout patterns for professional website design and development.
 Advanced responsive design using media queries.
 And Many More.
+
 Sections:
 1 Responsive Home Page Design.
 2 Shop Page & Single Product Page.
